@@ -1,1 +1,1 @@
-SingularityIsHere is super-easy Deep Learning
+SingularityIsHere is super-easy Deep Learning.
